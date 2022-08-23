@@ -1,3 +1,4 @@
 # Hello-World
 My First Repo
-somthing added
+Name: Ndi Raoul
+email: bobycruz911@gmail.com
